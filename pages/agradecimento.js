@@ -6,4 +6,4 @@ function pegarNota() {
     paragrafoNota.innerHTML = `Você selecionou ${nota} de 5`
 }
 
-paragrafoNota()
+pegarNota()
